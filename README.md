@@ -1,5 +1,6 @@
-# Image-Restoration
- A program for restoring the image using order statistics filter has been implemented.
+
+<h4>Order statistics filter such as min,max,midpoint ,median,alpha-trimmed (spatial domain filters) has been used for restoration purpose</h4>
+ 
 <h2> PSNR</h2>
 <img src="image restoration images/result.jpg">
 <h2> Original Image</h2>
