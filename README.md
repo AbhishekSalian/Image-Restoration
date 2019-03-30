@@ -8,14 +8,21 @@
 <h2> Noisy Image(salt and pepper noise)</h2>
 <img src="image restoration images/Noisy image.jpg">
 <h2>Median filter</h2>
+<img src="filter equation/median filter eqn.JPG">
 <img src="image restoration images/median filter.jpg">
 <h2>Max filter</h2>
+<img src="filter equation/max filter eqn.JPG">
 <img src="image restoration images/max filter.jpg">
 <h2>Min filter</h2>
+<img src="filter equation/min filter eqn.JPG">
 <img src="image restoration images/min filter.jpg">
 <h2>Midpoint filter</h2>
+<img src="filter equation/midpoint filter eqn.JPG">
 <img src="image restoration images/midpoint filter.jpg">
 <h2>Alpha trimmed filter</h2>
-<img src="image restoration images/alpha trimmed filter.jpg>
+<img src="filter equation/alpha-trimmed filter eqn.JPG">
+<img src="image restoration images/alpha trimmed filter.jpg">
+<h2><Median filter vs ALpha-trimmed filter</h2>
 <img src="image restoration images/alpha trimmed result and median result with very noisy image(salt and pepper).jpg">
+<h2>Iteration result</h2>
 <img src="image restoration images/iteration result.jpg">
