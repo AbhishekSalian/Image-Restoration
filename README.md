@@ -22,7 +22,7 @@
 <h2>Alpha trimmed filter</h2>
 <img src="filter equation/alpha-trimmed filter eqn.JPG">
 <img src="image restoration images/alpha trimmed filter.jpg">
-<h2><Median filter vs ALpha-trimmed filter</h2>
+<h2>Median filter vs ALpha-trimmed filter</h2>
 <img src="image restoration images/alpha trimmed result and median result with very noisy image(salt and pepper).jpg">
-<h2>Iteration result</h2>
+<h2>Comparison of restored images(Median filter vs ALpha-trimmed filter) </h2>
 <img src="image restoration images/iteration result.jpg">
