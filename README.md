@@ -1,4 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<h2>Image Restoration</h2>
 <h4>Order statistics filter such as min,max,midpoint ,median,alpha-trimmed (spatial domain filters) has been used for restoration purpose.</h4>
 <h4>PSNR (Peak signal to Noise ratio) is used as criteria (subjective fidelity criteria) in order to determine the how much the image is restored relative to original image.</h4>
 <h2> PSNR</h2>
