@@ -1,4 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/AbhishekSalian/badges)
+[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 <h2>Image Restoration</h2>
 <h4>Order statistics filter such as min,max,midpoint ,median,alpha-trimmed (spatial domain filters) has been used for restoration purpose.</h4>
 <h4>PSNR (Peak signal to Noise ratio) is used as criteria (subjective fidelity criteria) in order to determine the how much the image is restored relative to original image.</h4>
