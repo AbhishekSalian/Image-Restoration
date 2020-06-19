@@ -30,3 +30,5 @@
 <img src="image restoration images/alpha trimmed result and median result with very noisy image(salt and pepper).jpg">
 <h2>Comparison of restored images(Median filter vs Alpha-trimmed filter) </h2>
 <img src="image restoration images/iteration result.jpg">
+
+`` Clearly Median filter is the winner since it has far better SNR results than other filters``
